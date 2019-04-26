@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    //Comentario para git
+    //Comentario para gitm 2
 
     <EditText
         android:id="@+id/et_01"
